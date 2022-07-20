@@ -1,1 +1,3 @@
-insert JS here
+//insert JS here
+
+let it = "be";
